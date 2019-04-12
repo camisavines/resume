@@ -13,6 +13,10 @@ li {
     /* line-height: 14pt; */
 }
 
+h1 {
+    /* font-size: 190% !important; */
+}
+
 h1, h2{
     font-family: 'Raleway', sans-serif;
     /* font-size: 1em !important; */
@@ -47,7 +51,7 @@ h2 {
 
 #centerCenter {
     height: 90vh;
-    font-size: 3em;
+    font-size: 20pt;
     color: white;
     display: flex;
     align-items: center;

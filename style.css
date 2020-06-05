@@ -12,6 +12,15 @@
 
 .rb {border-right: 1px solid black;}
 
+.work ul {
+    margin-top: -5px;
+    padding-left: 15px;
+}
+
+.work {
+    margin-bottom: 4%;
+}
+
 .Chips {
     display: inline-block;
     height: 30pt;
@@ -25,3 +34,4 @@
     margin-bottom: 10px;
     margin-right: 0px;
 }
+

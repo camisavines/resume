@@ -1,0 +1,27 @@
+.containers {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.pad-container {
+    padding-right: 3% !important;
+    padding-left: 3% !important;
+}
+
+.lb {border-left: 1px solid black;}
+
+.rb {border-right: 1px solid black;}
+
+.Chips {
+    display: inline-block;
+    height: 30pt;
+    font-size: 50%;
+    font-weight: 400;
+    color: rgba(0,0,0,0.6);
+    line-height: 30pt;
+    padding: 0 15px;
+    border-radius: 72px;
+    background-color: #e4e4e4;
+    margin-bottom: 10px;
+    margin-right: 0px;
+}
